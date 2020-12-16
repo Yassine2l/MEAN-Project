@@ -6,6 +6,7 @@
 <li>Angular </li>
 <li>NodeJS</li>
 </ul>
+
 ## Server
 
 <ul>
@@ -13,17 +14,20 @@
 <li>Run `ssh creationBase.sh` to indludes products and members</li>
 <li>Run `node server/serveur.js`</li>
 </ul>
+
 ## Client
 
 <ul>
 <li>Run `npm -i --save` (to include all modules used in the project)</li>
 <li>Run `ng serve -o`</li>
 </ul>
-# Development server
+
+## Development server
 
 For a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
  Run `ng serve -o <port>` to change the port if he is used. 
-# Code scaffolding
+
+## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
