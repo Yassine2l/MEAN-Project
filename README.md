@@ -49,7 +49,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## About
 
-Developped By :
+Developed By :
 <ul>
 <li>
 EL ATILLAH Yassine
