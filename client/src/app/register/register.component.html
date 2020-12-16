@@ -1,0 +1,57 @@
+
+  <br><br>
+  <div class="container">
+
+    <!-- Grid row -->
+    <div class="row">
+        <!-- Grid column -->
+        <div class="col">
+          <form (ngSubmit)="onSubmit()" #inscriptionForm="ngForm">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="text-center default-text py-3"><i class="fa fa-lock"></i> Sign up:</h3> 
+                    
+                    <!--Body-->
+                    <div class="md-form">
+                      <i class="fa fa-user prefix grey-text"></i>
+                     
+                      <input type="text" placeholder="Nom" class="form-control" required [(ngModel)]="user['nom']" name="nom">
+                      <div *ngIf="valider && user['nom']=='' " class="red-text">{{nomMessage}}</div>
+
+                  </div>
+                  <div class="md-form">
+                    <i class="fa fa-user prefix grey-text"></i>
+                   
+                    <input type="text" placeholder="Prenom" class="form-control" required [(ngModel)]="user['prénom']" name="prenom">
+                    <div *ngIf="valider && user['prénom']=='' " class="red-text">{{prenomMessage}}</div>
+
+                </div>
+                    <div class="md-form">
+                        <i class="fa fa-envelope prefix grey-text"></i>
+                       
+                        <input type="text" placeholder="Email" class="form-control" required [(ngModel)]="user['email']" name="email" (input)="ValidEmail()">
+                        <div *ngIf="valider && user['email']=='' " class="red-text">{{emailMessage}}</div>
+                        <div *ngIf=" user['email']!='' && !ValideEmail" class="red-text">{{formatMessage}}</div>
+
+                    </div>
+                    <div class="md-form">
+                        <i class="fa fa-lock prefix grey-text"></i>
+                       
+                        <input type="password"  placeholder="Password"
+                         class="form-control" required [(ngModel)]="user['password']"
+                          name="password">
+                        <div *ngIf="valider && user['password']=='' " class=" red-text">{{passMessage}}</div>
+
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-info waves-effect waves-light">SignUp</button>
+                    </div>
+                </div>
+                
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+ 
+

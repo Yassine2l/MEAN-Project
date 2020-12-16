@@ -1,0 +1,27 @@
+
+<!--ul>
+    <li *ngFor="let c of categories"> 
+        {{  c  }} 
+
+    </li>
+</ul-->
+<div class="container mt-100">
+    <h1 style="font-size: bolder;">Categories :</h1>
+    <div class="row">
+        
+        <div class="col-md-4 col-sm-6" *ngFor="let c of categories">
+            <div class="card mb-30"><a class="card-img-tiles" href="#" data-abc="true">
+                    <div class="inner">
+                        <div class="main-img"><img src="{{ c.img }}" alt="Category"></div>
+                    </div>
+                </a>
+                <div class="card-body text-center">
+                    <h4 class="card-title">{{c.type}}</h4>
+                    <a class="btn btn-outline-primary btn-sm" routerLink="/produits/{{c.type}}" data-abc="true">View Products</a>
+                </div>
+            </div>
+        </div>
+       
+        </div>
+   
+</div>

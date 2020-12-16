@@ -1,0 +1,82 @@
+
+     <div class="spinner" *ngIf="produits.length == 0">
+    </div>
+    <div class="container" *ngIf="produits.length != 0">
+     
+      <br>
+      <br>
+      <br>
+      <br>
+    <div class="row">
+      <div class="col-10">
+        <input class="form-control" type="text" placeholder="Search" #myInput [(ngModel)]="recherche" name="recherche" (input)="search()">
+      </div>
+      <div class="col">
+
+     
+      <div class="dropdown">
+        <button class="dropbtn">Filter By</button>
+        <div class="dropdown-content">
+        <a class="pointer" (click)="filterbyPrix() ">Prix</a>
+        <a class="pointer" (click)="filterbyMarque()">Marque</a>
+        <a class="pointer" (click)="filterbyNom()">Nom</a>
+        <a class="pointer" (click)="filterbyAll()" >All</a>
+        </div>
+      </div>
+    </div>
+     
+    </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="row">
+          <div class="col-12 col-sm-8 col-md-6 col-lg-4" *ngFor="let produit of produits
+           | filter: recherche
+           | paginate: {itemsPerPage: 6, currentPage: page}">  
+            <div class="card">
+            
+              <img class="card-img" src="{{produit.img}}" alt="Product">
+           
+              <div  class="card-body">
+                <h4 style="cursor: pointer;" title = "Plus d'information" class="card-title" (click)=showDetails(produit)>{{produit.nom}}</h4>
+                <p style="cursor: pointer;" title = "Plus d'information" class="card-text" (click)=showDescription(produit)>
+                {{produit.description | slice:0:100}}...
+               </p>
+          
+                <div class="buy d-flex justify-content-between align-items-center">
+                  <div class="price text-success"><h5 class="mt-4">{{produit.prix}}$</h5></div>
+                 
+                  <div *ngIf="(user|async) "class="add">
+                    <a (click)=add(produit.nom,produit.type,produit.prix,produit.marque,produit.img) class="btn btn-info"
+                    [swal]="{
+                      position: 'top-end',
+                      icon: 'success',
+                      title: 'Product added to cart',
+                      showConfirmButton: false,
+                      timer: 900
+                    }"
+                    >Add To Cart</a>
+                </div> 
+           
+            <div *ngIf="!(user|async)">  <a  class="btn btn-info"
+                [swal]='{
+                icon: "error",
+                title: "Oops...",
+                text: "You should login to add the Product !"
+               
+            }'>
+                Add To Cart</a>
+               
+            </div>
+ 
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <pagination-controls class="text-center" (pageChange)="page = $event"></pagination-controls>
+
+      </div>
+ 

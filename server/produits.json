@@ -1,0 +1,425 @@
+[
+    {
+        "nom": "Hp Probook 640 G1",
+        "type": "Pc",
+        "prix": 400,
+        "marque": "HP",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/14/632033/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/14/632033/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/14/632033/3.jpg",
+        "description": "Prenez des tâches sur le bureau ou en déplacement avec un HP ProBook 640 G1 durable . Ces ProBooks sont fins, légers et dotés de fonctions de productivité pour rendre le travail plus simple et plus rapide. En outre, des solutions de sécurité fiables permettent de tenir les données hors de portée des mauvaises mains. Plus fins, plus robustes.",
+        "action": "Obtenez la technologie HP en laquelle vous avez confiance avec un style de pointe qui a l’apparence et la sensation que vous recherchez.",
+        "fiche": 
+            {
+                "Processeur": "Intel® Core™ i3-4000M @ 2.4GHz (4 ème génération)",
+                "RAM": "4Go",
+                "disque": "320Go",
+                "Ecran": "LED 14″ HD rétro-éclairé (1366 x 768)",
+                "cg": "Intégré :  Intel® HD 4600",
+                "lecteur": "DVD Super Multi DL",
+                "se": "Windows 10 Pro 64",
+                "Batterie": "6 cellules longue durée (55 W/h)",
+                "Ports": "3 USB 3.0 ; 1 USB 3.0 chargement ; 1 ports DisplayPort ; 1 port VGA",
+                "Couleur": "Noir, Argent",
+                "Poids": "2Kg",
+                "Etat": "Remis a neuf"
+            }
+        
+    },
+    {
+        "nom": "Hp Ordinateur Notebook",
+        "type": "Pc",
+        "prix": 500,
+        "marque": "HP",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/60/382283/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/60/382283/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/60/382283/3.jpg",
+        "description": "Ordinateur portable HP Notebook 250 G7 (Core i5 10e génération / 8 Go / SSD 256 Go / Windows 10) dispose d'un écran de 15.6 pouces pour vos besoins quotidiens. Cet ordinateur portable est alimenté par un processeur Intel Core i5-1035G7 (10e génération), couplé à 8 Go de RAMet dispose d'un stockage SSD de 256 Go à ce prix.Il fonctionne sur le système d'exploitation Windows 10. En ce qui lui concerne , ce portable dispose d'une carte graphique Intel UHD Graphics 620 pour gérer les fonctions graphiques. Pour le garder en vie, il dispose d'une batterie Li-Ion 4 cellules et pèse 1.77 kg.",
+        "fiche":
+            {
+                "Processeur": "Intel Core i5 (10e génération) 1035G7 / 3,7 GHz (3,9 GHz) / 6 Mo de cache",
+                "RAM": " 8 Go DDR4 (1 x 4 Go (extensible))",
+                "disque": "256GB SSD",
+                "Ecran": "15,6 WLED 1366 x 768 / HD",
+                "cg": "Intel UHD Graphics 620",
+                "lecteur": "DVD Super Multi DL",
+                "se": "Windows 10 Pro 64",
+                "Batterie": "6 cellules longue durée (55 W/h)",
+                "Ports": "3 USB 3.0 ; 1 USB 3.0 chargement ; 1 ports DisplayPort ; 1 port VGA",
+                "Couleur": "Noir, Argent",
+                "Poids": "1,78Kg",
+                "Etat": "Remis a neuf"
+            }
+        
+    },
+    {
+        "nom": "Asus Pc portable",
+        "type": "Pc",
+        "prix": 400,
+        "marque": "Asus",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/74/282283/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/74/282283/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/74/282283/3.jpg",
+        "description": "PC Portable S509J Processeur Intel Core i7-1065G7 (Quad-Core 1.3 GHz / 3.9 GHz Turbo - 8 Threads - Cache 8 Mo), RAM8 Go de mémoire DDR4, Ecran de 15.6 anti-reflets avec résolution Full HD (1920 x 1080), disque 1TB SATA 5400 tr/min, Communication sans fil fiable et performante Wi-Fi AC + Bluetooth 4.1, Vitesse haut débit avec 1 port USB 3.0 et 1 port réversible USB 3.0 Type C, Système d'exploitation Windows 10 Home Que ce soit pour travailler ou jouer, ASUS X509 est l'ordinateur portable d'entrée de gamme qui offre des performances puissantes et des visuels immersifs. Son écran Nano Edge offre de larges angles de vision de 178 ° et un revêtement antireflet mat pour une expérience vraiment engageante. À l'intérieur, il est alimenté par un processeur Intel® Core ™ i7 de 10e génération avec jusqu'à 16 Go de RAMà 2400 MHz. 1 To de disque vous offre la combinaison parfaite d'une grande capacité de stockage et de vitesses de lecture / écriture de données rapides. Il existe même une mémoire Intel Optane ™1 pour accélérer les choses.",
+        "fiche":
+            {
+                "Processeur": "10e génération de processeurs Intel® Core™ i7",
+                "RAM": "8Go",
+                "disque": "500Go",
+                "Ecran": "1920 x 1080 pixels",
+                "cg": "Intégré : carte graphique Intel® HD 4600",
+                "lecteur": "DVD Super Multi DL",
+                "se": "Windows 10 Pro 64",
+                "Batterie": "6 cellules longue durée (55 W/h)",
+                "Ports": "3 USB 3.0 ; 1 USB 3.0 chargement ; 1 ports DisplayPort ; 1 port VGA",
+                "Couleur": "Noir, Argent",
+                "Poids": "2Kg",
+                "Etat": "Remis a neuf"
+            }
+        
+    },
+    {
+        "nom": "Fujitsu Siemens LIFEBOOK",
+        "type": "Pc",
+        "prix": 800,
+        "marque": "Fijutsu",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/58/968963/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/58/968963/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/58/968963/3.jpg",
+        "description": "Le nouveau LIFEBOOK U748, basé sur le processeur Intel® Core ™ de 8e génération, est un ordinateur portable ultra-mobile fin et léger pour les professionnels qui prend en charge une mobilité optimale pour les voyages d’affaires et l’ergonomie au bureau. Avec ses 35,6 cm (14 pouces) et son poids léger de seulement 1,49 kg (3,28 lb), il offre une excellente mobilité. Le visionnement ergonomique est garanti avec les options d’écran tactile anti-reflets HD, FHD ou FHD en option et le capteur d’empreinte digitale ou veine de la paume intégré offre une sécurité exceptionnelle. La conception intelligente combine des interfaces héritées telles que le VGA pleine taille et une mise à niveau facile avec un boîtier mince et durable. Le réplicateur de port commun de la famille LIFEBOOK U facilite le partage du lieu de travail dans le style de travail moderne d’aujourd’hui.",
+        "fiche":
+            {
+                "Processeur": "Intel® Core™ i3-4000M @ 2.4GHz (8 ème génération)",
+                "RAM": "16Go",
+                "disque": "320Go",
+                "Ecran": "LED 14″ HD rétro-éclairé (1366 x 768)",
+                "cg": "Intégré : carte graphique Intel® HD 4600",
+                "lecteur": "DVD Super Multi DL",
+                "se": "Windows 10 Pro 64",
+                "Batterie": "6 cellules longue durée (55 W/h)",
+                "Ports": "3 USB 3.0 ; 1 USB 3.0 chargement ; 1 ports DisplayPort ; 1 port VGA",
+                "Couleur": "Noir, Argent",
+                "Poids": "2Kg",
+                "Etat": "Remis a neuf"
+            }
+        
+    },
+    {
+        "nom": "Lenovo Thinkpad",
+        "type": "Pc",
+        "prix": 1400,
+        "marque": "Lenovo",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/15/495973/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/15/495973/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/15/495973/3.jpg",
+        "description": "Rend l’informatique personnelle encore plus personnelle avec différentes options de processeur, mémoire, stockage et écran, le portable ThinkPad T14 offre des possibilités de configuration quasi illimitées, ce qui en fait l’un des ordinateurs les plus personnalisables du marché. Grâce à la longue durée de vie de la batterie et à la technologie RapidCharge, vous pouvez quitter votre bureau et l’emporter en toute confiance partout où vous allez, que ce soit sur la route ou dans les airs.",
+        "fiche":
+            {
+                "Processeur": "Intel® Core™ i8-4000M @ 2.4GHz (4 ème génération)",
+                "RAM": "4Go",
+                "disque": "320Go",
+                "Ecran": "LED 14″ HD rétro-éclairé (1366 x 768)",
+                "cg": "Intégré : carte graphique Intel® HD 4600",
+                "lecteur": "DVD Super Multi DL",
+                "se": "Windows 10 Pro 64",
+                "Batterie": "6 cellules longue durée (55 W/h)",
+                "Ports": "3 USB 3.0 ; 1 USB 3.0 chargement ; 1 ports DisplayPort ; 1 port VGA",
+                "Couleur": "Noir, Argent",
+                "Poids": "2Kg",
+                "Etat": "Remis a neuf"
+            }
+        
+    
+    },
+    {
+        "nom": "Samsung Galaxy M31",
+        "type": "Telephone",
+        "prix": 140,
+        "marque": "Samsung",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/36/127933/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/36/127933/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/36/127933/3.jpg",
+        "description": "Le Galaxy M31 est votre passe d'accès illimité au monde du divertissement avec sa certification Widevine L1 et son surround Dolby Atmos * 360˚.",
+        "fiche":
+            {
+                "Ecran" : "6.4” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "32MP",
+                "OS" :"Android",
+                "RAM" : "6Go",
+                "ROM" : "128Go"
+            }
+        
+    
+    },
+    {
+        "nom": "Samsung Galaxy A01",
+        "type": "Telephone",
+        "prix": 90,
+        "marque": "Samsung",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/91/431963/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/91/431963/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/91/431963/3.jpg",
+        "description": " Avec son écran HD+ de 5.3 , le Galaxy A01 Core offre une expérience immersive sur grand écran. Profitez de votre contenu de manière optimale.",
+        "fiche":
+            {
+                "Ecran" : "5.3” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "32MP",
+                "OS" :"Android",
+                "RAM" : "6Go",
+                "ROM" : "128Go"
+            }
+        
+    
+    },
+    {
+        "nom": "Huawei Y8p",
+        "type": "Telephone",
+        "prix": 240,
+        "marque": "Huawei",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/06/780863/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/06/780863/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/06/780863/3.jpg",
+        "description": "Avec un rapport écran / corps de 90,17% et une résolution ultra-claire de 2400 x 1080 , l'écran OLED Dewdrop de 6,3 offre une expérience visuelle et une gamme de couleurs cinématographiques remarquables.  Les détails clairs et sombres sont extrêmement clairs et vifs lorsque vous regardez vidéos, jouer à des jeux ou parcourir des images.",
+        "fiche":
+            {
+                "Ecran" : "6.4” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "32MP",
+                "OS" :"Android",
+                "RAM" : "6Go",
+                "ROM" : "128Go"
+            }
+        
+    
+    },
+    {
+        "nom": "Samsung Galaxy 1",
+        "type": "Telephone",
+        "prix": 190,
+        "marque": "Samsung",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/94/008343/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/94/008343/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/94/008343/3.jpg",
+        "description": "Disponibles en noir, bleu et rouge, les couleurs du Galaxy A01 sont intensifiées par la finition mate moderne. Le corps élancé mesure 8,3 mm, il tient donc confortablement dans votre main, ce qui signifie que vous pouvez tenir plus longtemps.",
+        "fiche":
+            {
+                "Ecran" : "6.4” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "32MP",
+                "OS" :"Android",
+                "RAM" : "6Go",
+                "ROM" : "128Go"
+            }
+        
+    
+    }
+    ,{
+        "nom": "Nokia 2.4",
+        "type": "Telephone",
+        "prix": 240,
+        "marque": "Nokia",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/51/000973/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/51/000973/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/51/000973/3.jpg",
+        "description": "Les moments qui méritent d'être capturés ne se produisent pas toujours à la lumière du jour. Grâce à la fusion d'images avancée et à l'empilement d'exposition du mode Nuit, vous pouvez capturer des détails éclatants dans des conditions plus sombres.",
+        "fiche":
+            {
+                "Ecran" : "2.4” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "32MP",
+                "OS" :"Android",
+                "RAM" : "2Go",
+                "ROM" : "128Go"
+            }
+        
+    
+    },
+    {
+        "nom": "Samsung Galaxy Tab A",
+        "type": "Tablet",
+        "prix": 399,
+        "marque": "Samsung",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/63/604543/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/63/604543/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/63/604543/3.jpg",
+        "description": "Avec la Galaxy Tab A (8,0 ”, 2019), découvrez un compagnon pratique qui offre les fonctions essentielles d’une tablette et plus encore. Dotée d’un design fin, compact et facilement transportable, elle se tient aisément d’une seule main. C’est la parfaite association de performance, esthétique et accessibilité.",
+        "fiche":
+            {
+                "Ecran" : "2.4” ",
+                "Type" : "Super AMOLED",
+                "Selfie" : "12MP",
+                "OS" :"Android",
+                "RAM" : "2Go",
+                "ROM" : "128Go",
+                "Sim": "oui"
+            }
+        
+    
+    }
+    ,
+    {
+        "nom": "Zatec Android 10",
+        "type": "Tablet",
+        "prix": 90,
+        "marque": "Zatec",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/14/901273/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/51/14/901273/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/51/14/901273/3.jpg",
+        "description": "Grande RAM2G pour que le système fonctionne correctement. De plus, la ROM 32G peut pleinement prendre en charge toutes vos applications et vos besoins multimédias.",
+        "fiche":
+            {
+                "Ecran" : "2.4”",
+                "Type" : "Super AMOLED",
+                "Selfie" : "22MP",
+                "OS" :"Android",
+                "RAM" : "2Go",
+                "ROM" : "32Go",
+                "Sim" : "non"
+            }
+        
+    
+    }
+    ,
+    {
+        "nom": "SmartBerry 2020",
+        "type": "Tablet",
+        "prix": 99,
+        "marque": "SmartBerry",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/90/147463/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/90/147463/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/90/147463/3.jpg",
+        "description": "Nouvelle tablette 2020, tablette Android 10 pouces 8.0",
+        "fiche":
+            {
+                "Ecran" : "2.4” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "23MP",
+                "OS" :"Android",
+                "RAM" : "2Go",
+                "ROM" : "128Go",
+                "Sim":" non"
+            }
+        
+    
+    }
+    ,
+    {
+        "nom": "Huawei MediaPad T3",
+        "type": "Tablet",
+        "prix": 109,
+        "marque": "Huawei",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/00/214763/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/00/214763/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/00/214763/2.jpg",
+        "description": "La tablette HUAWEI MediaPad T3 7'' offre une longue autonomie et de grandes performances, dans un design élégant et résistant Écran IPS 7  1024 x 600Batterie de 4100 mAHMémoire  1Gb+16Gb et jusqu'à 128Gb carte SDCarte SIM 3G/4G",
+        "fiche":
+            {
+                "Ecran" : "2.4” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "2MP",
+                "OS" :"Android",
+                "RAM" : "2Go",
+                "ROM" : "128Go",
+                "Sim":"oui"
+            }
+        
+    
+    }
+    ,
+    {
+        "nom": "Archos Oxygen 101S",
+        "type": "Tablet",
+        "prix": 300,
+        "marque": "Archos",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/34/008963/1.jpg",
+        "img2": "https://ma.jumia.is/unsafe/fit-in/300x300/product/34/008963/2.jpg",
+        "img3": "https://ma.jumia.is/unsafe/fit-in/300x300/product/34/008963/3.jpg",
+        "description": "La tablette ARCHOS Oxygen 101 S et sa station Sound Dock dynamisent l’expérience utilisateur à la maison .",
+        "fiche":
+            {
+                "Ecran" : "2.4” FHD+ (1080x2340)",
+                "Type" : "Super AMOLED",
+                "Selfie" : "32MP",
+                "OS" :"Android",
+                "RAM" : "2Go",
+                "ROM" : "128Go",
+                "Sim" : "oui"
+            }
+        
+    
+    }
+    ,{
+        "nom": "Visio SMART TV 32``",
+        "type": "Television",
+        "prix": 200,
+        "marque": "Visio",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/35/627313/1.jpg",
+        "description": "Le tout nouveau Full-Array LED 32 série de VISIO est arrivé. Doté d'un nouveau design moderne, d'une qualité d'image exceptionnelle et d'une expérience TV intelligente plus rapide et plus facile à utiliser, VISIO vous offre un divertissement HD de qualité supérieure à un prix incroyable. Le rétroéclairage à LED Full-Array distribue les LED derrière l’écran entier pour une uniformité de la lumière et des performances d’image supérieures."
+    }
+    ,{
+        "nom": "Vision LED 32``",
+        "type": "Television",
+        "prix": 230,
+        "marque": "Vision",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/47/676483/1.jpg",
+        "description": "TV VISION VS-32LDA471B maximise la reproduction des couleurs pour prendre votre vision au prochain niveau.  Que ce soit les sports, les savons, les films, profitez des couleurs réalistes comme ils étaient censés le faire.  Sur le panneau de contraste élevé, on peut voir une profondeur de champ évidente: les blancs sont plus brillants, les noirs plus foncés et les couleurs plus vives. "
+    }
+    ,{
+        "nom": "Samsung 40 Smart",
+        "type": "Television",
+        "prix": 299,
+        "marque": "Samsung",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/12/507423/1.jpg",
+        "description": "Samsung est la première marque de téléviseurs au monde et domine le marché depuis 12 ans. Avec le téléviseur Samsung, profitez d’une technologie de pointe, d’un design exceptionnel, de services innovants et de partenariats de contenus demandés par le grand public"
+    }
+    ,{
+        "nom": "Hisense 43″",
+        "type": "Television",
+        "prix": 170,
+        "marque": "Hisense",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/53/039843/1.jpg",
+        "description": "VIDAA est une nouvelle génération de téléviseurs avec juste la bonne quantité d'intelligence qui ne vous gêne pas. Parce que parfois, vous voulez juste faire le plein de Live TV, de catch-up TV, de vidéo à la demande comme Net-flix et Stan, il ne vous reste plus qu'à appuyer sur un bouton. Contenu d'abord, sans les gadgets. Maintenant c'est génial."
+    }
+    ,{
+        "nom": "Philips 24 LED",
+        "type": "Television",
+        "prix": 99,
+        "marque": "Philips",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/08/978243/1.jpg",
+        "description": "Picture Performance Index combine la technologie d’affichage Philips et des moteurs de traitement d’images avancés pour améliorer les éléments de perception: netteté, mouvement, contraste et couleur. Quelle que soit la source, vous profiterez toujours d'images nettes au rasoir avec une profondeur et des détails incroyables, les noirs les plus profonds, les blancs les plus brillants, les couleurs les plus vives et les plus brillantes, ainsi que des tons chair naturels et réalistes à chaque fois."
+    },{
+        "nom": "Xtrike Souris",
+        "type": "Souris",
+        "prix": 29,
+        "marque": "Xtrike",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/12/716833/1.jpg",
+        "description": "Préparez-vous pour le combat ultime en personnalisant votre souris et en sauvegardant vos précieux réglages sur sa mémoire embarquée ! La souris XTRIKE GM-205 va à l'essentiel ! Performante et précise, elle intègre un capteur optique pouvant aller jusqu'à 3200 dpi pour une précision chirurgicale. Profitez également d'un design ambidextre, de 6 boutons et d'un rétro-éclairage RGB pour devenir le meilleur joueur"
+    }
+    ,{
+        "nom": "Mouse Gamer",
+        "type": "Souris",
+        "prix": 13,
+        "marque": "Gaming mouse",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/34/132263/1.jpg",
+        "description": "Interrupteur de 5 DPI et Fonction Personnalisée】Pas besoin de pilote,plug & play. 5 niveaux DPI réglables(800,1200,1600,2000,2400) pour changer librement la vitesse de la souris. 【2.4G Technologie de Transmission Sans Fil à Deux Voies】Plus sécurisé et précis,la distance de transmission peut atteindre 10mètres(environ 30ft). 【Conception de Boutons Silencieux】Les boutons gauche et droit produisent peu de bruit lorsque vous cliquez. Parfait pour les lieux publics tels que les bureaux,les bibliothèques,les dortoirs,les cafés internet où vous ne voulez pas déranger les autres ou interrompre votre concentration. 【Chip avancé économise l'énergie】Mode d'économie d'énergie multi-étages,moins de consommation d'énergie. Il y a un bouton au bas de la souris,trois options: ON,OFF,ON/Light. Mettez le sur ON/light,le rétroéclairage LED s'allume. Le curseur fonctionne de manière stable. Avec une forte capacité de surface adaptative,cette souris sans fil fonctionne bien sur de nombreuses surfaces. 【Systèmes Compatibles】Windows XP/Vista/Win7/Win8/Win10/ME/2000/Mac10.x,etc."
+    }
+    
+    ,{
+        "nom": "Souris WOLF",
+        "type": "Souris",
+        "prix": 22,
+        "marque": "Wolf",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/95/844953/1.jpg",
+        "description": "Peut être appliqué pour les compétences quotidiennes de bureau/conception graphique/divertissement de jeu.Design ergonomique, construit pour un confort supérieur, s'adapte à votre main. La technologie de pointe et l'excellente qualité, est crédible et digne de confiance."
+    }
+    ,{
+        "nom": "Logitech M100",
+        "type": "Souris",
+        "prix": 9,
+        "marque": "Logitech",
+        "img": "https://ma.jumia.is/unsafe/fit-in/300x300/product/75/009173/1.jpg",
+        "description": "Avec la souris Logitech® Mouse M100, allez à l’essentiel en matière de confort et de fiabilité. Fabriquée par Logitech®, le spécialiste des souris, cette souris bénéficie de toute l’expertise d’un fabricant ayant produit plus d’un milliard de souris. Il n’y a aucun logiciel à installer. Et, étant de conception filaire, il vous suffit de connecter le câble à un port USB pour pouvoir l’utiliser. "
+    }
+]

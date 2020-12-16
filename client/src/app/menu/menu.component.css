@@ -1,0 +1,33 @@
+.dropdown{
+    cursor: pointer;
+
+}
+.navbar {
+    background-color: #5bc0de;
+    border:none;
+}
+
+.fa-shopping-cart{
+    color: white;
+}
+.fa-shopping-cart:hover{
+    color: black;
+    font-weight: bolder;
+}
+a{
+    margin:5px;
+}
+li a {
+    cursor: pointer;
+    color : white;
+
+}
+
+
+.navbar-brand{
+    font-weight: bolder;
+    color: whitesmoke;
+}
+.container-fluid{
+    display: flex;
+}
