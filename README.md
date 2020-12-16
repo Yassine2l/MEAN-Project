@@ -49,5 +49,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## About
 
+Developped By :
+<ul>
+<li>
+EL ATILLAH Yassine
+</li>
+<li>
+LAAROUSSI LAILA
+</li>
+</ul>
 MEAN E-commerce Project
 
